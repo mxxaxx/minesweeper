@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9f4b9237.css","mappings":"AAAA,EACI,gCACJ,CAEA,WACI,qBAAsB,CAEtB,WAAW,CADX,UAEJ,CAEA,UACI,YACJ","sources":["index.css"],"sourcesContent":["* {\n    font-family: 'Open Sans', sans-serif;\n}\n\n.grid-item{\n    border:2px black solid;\n    width:50px;\n    height:50px;\n}\n\n.grid-row{\n    display:flex;\n}\n\n"],"names":[],"sourceRoot":""}
